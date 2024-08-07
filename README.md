@@ -1,4 +1,4 @@
-## https://www.notion.so/kkh0228/EfficientDet-0fb4d17da4b545b1a910ca1cf7cf43d5
+## [노션 링크](https://www.notion.so/kkh0228/EfficientDet-0fb4d17da4b545b1a910ca1cf7cf43d5)
 
 ## AiHub Dataset으로 Fine-Tunning한 EfficientDet Inference 결과
 
